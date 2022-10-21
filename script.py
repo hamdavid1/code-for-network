@@ -9,7 +9,7 @@ def greet(who_to_greet):
 print(greet ('World'))
 print(greet('Ham112211'))
 
-name = input("yourname111?")
+name = input("yourname, ")
 
-print("hello-test" , name) 
+print("hello-sunshine - welcome" , name) 
 
