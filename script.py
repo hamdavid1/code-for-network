@@ -10,4 +10,8 @@ print(greet ('World'))
 print(greet('Ham112211'))
 
 name = input("yourname111?")
+<<<<<<< HEAD
 print("hello-test" , name) 
+=======
+print("hello-test-- this is included again sorry" , name) 
+>>>>>>> 5fd6bf8 (Change test)
